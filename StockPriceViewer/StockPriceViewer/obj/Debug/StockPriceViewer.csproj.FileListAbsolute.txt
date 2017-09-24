@@ -1,0 +1,10 @@
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\bin\Debug\StockPriceViewer.exe.config
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\obj\Debug\StockPriceViewer.csprojResolveAssemblyReference.cache
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\bin\Debug\StockPriceViewer.exe
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\bin\Debug\StockPriceViewer.pdb
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\bin\Debug\Models.dll
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\bin\Debug\Services.dll
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\bin\Debug\Models.pdb
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\bin\Debug\Services.pdb
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\obj\Debug\StockPriceViewer.exe
+C:\DotNetMaterialAndSample\My_samples\VS2013\StockPriceViewer\StockPriceViewer\obj\Debug\StockPriceViewer.pdb
